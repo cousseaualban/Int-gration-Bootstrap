@@ -61,10 +61,43 @@ body {
             }
             .bottomArticles{
                 padding-top: 2vh;
+                padding-bottom: 4vh;
                 width: 90%;
                 margin: auto;
                 display: flex;
                 justify-content: space-between;
+            }
+        }
+    }
+
+    .section3{
+        padding-top: 4vh;
+        background-color: #1ABC9C;
+        height: 40vh;
+
+        .about{
+            width: 80%;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            color: #fff;
+
+            .contentAbout{
+                padding-top: 2vh;
+                width: 50%;
+                margin: auto;
+                display: flex;
+                justify-content: space-between;
+
+                p{
+                    width: 45%;
+                }
+            }
+
+            button{
+                background-color: #1ABC9C;
+                border-color: #fff;
             }
         }
     }
