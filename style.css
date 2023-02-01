@@ -90,6 +90,7 @@ body .section4 {
   padding-top: 4vh;
   text-align: center;
   color: #2C3E50;
+  padding-bottom: 4vh;
 }
 body .section4 .contentContact {
   width: 40%;
@@ -103,4 +104,22 @@ body .section4 .contentContact button {
   width: 10%;
   background-color: #1ABC9C;
   border-color: #1ABC9C;
+}
+body .footer {
+  background-color: #2C3E50;
+  color: #fff;
+  display: flex;
+  text-align: center;
+}
+body .footer .location {
+  width: 25%;
+  margin: auto;
+}
+body .footer .aroundTheWeb {
+  width: 25%;
+  margin: auto;
+}
+body .footer .aboutFreelancer {
+  width: 25%;
+  margin: auto;
 }/*# sourceMappingURL=style.css.map */

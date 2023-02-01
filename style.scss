@@ -106,6 +106,7 @@ body {
         padding-top: 4vh;
         text-align: center;
         color: #2C3E50;
+        padding-bottom: 4vh;
 
         .contentContact{
             width: 40%;
@@ -120,6 +121,28 @@ body {
                 background-color: #1ABC9C;
                 border-color: #1ABC9C;
             }
+        }
+    }
+
+    .footer{
+        background-color: #2C3E50;
+        color: #fff;
+        display: flex;
+        text-align: center;
+        
+        .location{
+            width: 25%;
+            margin: auto;
+        }
+
+        .aroundTheWeb{
+            width: 25%;
+            margin: auto;
+        }
+
+        .aboutFreelancer{
+            width: 25%;
+            margin: auto;
         }
     }
 }
