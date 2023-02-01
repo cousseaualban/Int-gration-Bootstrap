@@ -101,4 +101,25 @@ body {
             }
         }
     }
+
+    .section4{
+        padding-top: 4vh;
+        text-align: center;
+        color: #2C3E50;
+
+        .contentContact{
+            width: 40%;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+
+            button{
+                margin-top: 2vh;
+                width: 10%;
+                background-color: #1ABC9C;
+                border-color: #1ABC9C;
+            }
+        }
+    }
 }

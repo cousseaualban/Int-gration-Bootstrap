@@ -85,4 +85,22 @@ body .section3 .about .contentAbout p {
 body .section3 .about button {
   background-color: #1ABC9C;
   border-color: #fff;
+}
+body .section4 {
+  padding-top: 4vh;
+  text-align: center;
+  color: #2C3E50;
+}
+body .section4 .contentContact {
+  width: 40%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+body .section4 .contentContact button {
+  margin-top: 2vh;
+  width: 10%;
+  background-color: #1ABC9C;
+  border-color: #1ABC9C;
 }/*# sourceMappingURL=style.css.map */
